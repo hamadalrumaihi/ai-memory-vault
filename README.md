@@ -22,6 +22,10 @@ Starter files for the system, ready to drop in and fill out. Each one carries a 
 - **[VAULT-INDEX.md](templates/VAULT-INDEX.md):** the operating manual. This one lives **inside your vault** (it's a note, not config). Your profile, your projects, the full vault rules, and how you like to work with the AI.
 - **[MEMORY.md](templates/MEMORY.md):** the pointer for Claude Code's own memory. Goes in **Claude Code's project folder** (`~/.claude/projects/...`, not your vault). It redirects the native memory back into the vault so you never end up with two memory layers that drift apart.
 
+## Example
+
+Want to see the finished system before you build yours? **[examples/mock-vault](examples/mock-vault)** is a complete mock vault for a fictional freelance designer — the boot config, the memory pointer, the filled-in vault index, folder indexes, a daily note, Active Priorities, and a working Job note with its boot chain.
+
 ## Support
 
 Free to use, and always will be. If this helped you out, you can buy me a coffee:
